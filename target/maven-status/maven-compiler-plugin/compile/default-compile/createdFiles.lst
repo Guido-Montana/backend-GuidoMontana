@@ -27,6 +27,8 @@ com\portfolio\gjm\Security\Repository\IRolRepository.class
 com\portfolio\gjm\Dto\dtoExperiencia.class
 com\portfolio\gjm\Repository\Rhys.class
 com\portfolio\gjm\Security\Dto\NuevoUsuario.class
+com\portfolio\gjm\Dto\dtoPersona.class
+com\portfolio\gjm\GjmApplication$1.class
 com\portfolio\gjm\Repository\REducacion.class
 com\portfolio\gjm\Security\Repository\IUsuarioRepository.class
 com\portfolio\gjm\Security\Service\UserDetailsImpl.class
